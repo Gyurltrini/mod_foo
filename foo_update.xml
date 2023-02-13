@@ -7,7 +7,7 @@
         <type>module</type>
         <version>1.0.1</version>
         <downloads>
-            <downloadurl type="full" format="zip">http://www.example.com/mod_foo_101.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/Gyurltrini/mod_foo/archive/refs/tags/mod_foo_v1.0.1.zip</downloadurl>
         </downloads>
         <tags>
             <tag>stble</tag>
