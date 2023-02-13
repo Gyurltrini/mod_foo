@@ -19,7 +19,7 @@
         <filename>mod_foo.xml</filename>
     </files>
 	<updateservers>
-        <server type="extension" priority="1" name="mod_foo">http://posappsvr3/joomla_ext/modules/foo/foo_update.xml</server>
+        <server type="extension" priority="1" name="mod_foo">https://github.com/Gyurltrini/mod_foo/blob/0b51309225d8d0bc755c55653a65f0785292135d/foo_update.xml</server>
     </updateservers>
 	<config>
         <fields name="params">
