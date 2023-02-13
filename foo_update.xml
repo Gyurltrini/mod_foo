@@ -10,7 +10,7 @@
             <downloadurl type="full" format="zip">https://github.com/Gyurltrini/mod_foo/archive/refs/tags/mod_foo_v1.0.1.zip</downloadurl>
         </downloads>
         <tags>
-            <tag>stble</tag>
+            <tag>stable</tag>
         </tags>
         <maintainer>Joomla</maintainer>
         <maintainerurl>http://www.example.com</maintainerurl>
