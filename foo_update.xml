@@ -4,6 +4,7 @@
         <name>Foo</name>
         <description>This is mod_foo 1.0.1</description>
         <element>mod_foo</element>
+        <client>0</client>
         <type>module</type>
         <version>1.0.1</version>
         <downloads>
@@ -15,6 +16,5 @@
         <maintainer>Joomla</maintainer>
         <maintainerurl>http://www.example.com</maintainerurl>
         <targetplatform name="joomla" version="4.0"/>
-        <client>site</client>
     </update>
 </updates>
