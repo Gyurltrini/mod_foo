@@ -19,6 +19,7 @@
         <filename>mod_foo.xml</filename>
     </files>
 	<updateservers>
+		///for github, remember to always use the raw url
         <server type="extension" priority="1" name="mod_foo">https://raw.githubusercontent.com/Gyurltrini/mod_foo/main/foo_update.xml</server>
     </updateservers>
 	<config>
