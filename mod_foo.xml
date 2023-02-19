@@ -19,7 +19,7 @@
         <filename>mod_foo.xml</filename>
     </files>
 	<updateservers>
-        <server type="extension" priority="1" name="mod_foo">https://github.com/Gyurltrini/mod_foo/blob/cc808bed3d7257c738e146d0e9cbcb93007b59a9/foo_update.xml</server>
+        <server type="extension" priority="1" name="mod_foo">https://raw.githubusercontent.com/Gyurltrini/mod_foo/main/foo_update.xml</server>
     </updateservers>
 	<config>
         <fields name="params">
